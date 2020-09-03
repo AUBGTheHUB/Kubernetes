@@ -1,6 +1,3 @@
-name: Unimorph
-runtime:
-  name: python
-  options:
-    virtualenv: venv
-description: The infrastucture code to support the Unimorph platform.
+name: Eureka
+runtime: nodejs
+description: The infrastructure code to deploy Eureka to the Kubernetes Cluster
