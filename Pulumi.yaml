@@ -1,3 +1,3 @@
 name: Eureka
 runtime: nodejs
-description: The infrastructure code to deploy Eureka to the Kubernetes Cluster
+description: Eureka Infrastructure as Code
